@@ -1,0 +1,17 @@
+body{
+    .inf{
+        width:60%;
+        height:60;
+        cellspacing:0;
+        bgcolor:white;
+        align:center;
+    }
+    #topo{
+        valign:top;
+        width:100%;
+        height:30;
+        bgcolor:#25435B; 
+        cellspacing:0;
+
+    }
+}
